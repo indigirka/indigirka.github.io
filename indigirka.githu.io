@@ -1,1 +1,0 @@
-indigirka.github.io hai

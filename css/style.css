@@ -66,6 +66,7 @@ a:active {
 .menu-primer li {
     border-right: 1px solid #d1d5da
     display: in-line block
+    float: left;
 }
 
 .menu-primer a {
